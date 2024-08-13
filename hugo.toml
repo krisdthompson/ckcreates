@@ -1,0 +1,4 @@
+baseURL = 'https://ckcreates.opeongo.net/'
+languageCode = 'en-us'
+title = 'CK Creates'
+theme = "ananke"
